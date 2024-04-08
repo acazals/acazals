@@ -2,7 +2,7 @@
 - 👀 I’m interested in applied mathematics and DataScience
 - 🌱 I’m currently learning those in my engineering School : Centrale Mediterranee
 - 💞️ I’m looking to collaborate on python projects mainly
-- 📫 How to reach me antonin.cazals@centrale-med.fr, or Linkedin
+- 📫 How to reach me antonin.cazals@centrale-med.fr, or Linkedin : Antonin Cazals
 
 
 <!---
